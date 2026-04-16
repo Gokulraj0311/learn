@@ -1,0 +1,43 @@
+
+git fetch -to fetch all data from the github does not merge means used initally
+git pull-merge data or get data from the github(update)
+git clone-copy of the entire repository 
+
+STEP 1:
+git add .
+   or
+git add (file name which need to be pushed)
+
+staging area comes
+
+
+STEP 2:
+git commit -u "Commit message"
+
+Explain:Enters into local repository after commit message
+
+
+STEP 3:
+git remote add origin (link)
+Explain:tell the git to push in this origin
+
+STEP 3:
+
+git push -u origin main
+
+explain:push the data to the github repository
+
+
+FINAL WORKFLOW
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Gokulraj0311/learn.git
+git push -u origin main
+
+
+
+ADD on to it
+
+git status- to know the status of the git
+git branch-to know in which branch it is in
