@@ -29,3 +29,10 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/Gokulraj0311/learn.git
 git push -u origin main
+
+
+
+ADD on to it
+
+git status- to know the status of the git
+git branch-to know in which branch it is in
